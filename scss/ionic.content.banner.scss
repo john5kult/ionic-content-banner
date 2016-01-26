@@ -59,6 +59,10 @@ $content-banner-info-bg: #333   !default;
   top: 60px;
 }
 
+.platform-android .content-banner {
+  top: 60px;
+}
+
 .content-banner-transition-vertical {
   @include transition-transform(linear 250ms);
   @include translate3d(0, -100%, 0);
