@@ -39,6 +39,9 @@
 .platform-ios .content-banner {
   top: 60px; }
 
+.platform-android .content-banner {
+  top: 60px; }
+
 .content-banner-transition-vertical {
   -webkit-transition: -webkit-transform linear 250ms;
   transition: transform linear 250ms;
